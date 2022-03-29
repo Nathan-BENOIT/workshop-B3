@@ -1,0 +1,48 @@
+#title {
+    color: #f89fa3;
+}
+
+.autisme {
+    height: 500px;
+    margin-top: -50px;
+}
+
+.rose {
+    color: #fefefe;
+    display: inline-block;
+    padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
+    border: 0.125rem solid #f89fa3;
+    border-radius: 2rem;
+    background-color: #f89fa3;
+    font: 700 0.75rem/0 "Montserrat", sans-serif;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.rose:hover {
+    background-color: transparent;
+    color: #f89fa3;
+    text-decoration: none;
+}
+
+#btnControl {
+    display: none;
+}
+
+#btnControl:checked + label > div {
+    background-color:black;
+    color:#FFFFFF;
+}
+
+#colored {
+    background-color: #fefefe;
+    color:black;
+}
+
+.label {
+    color: black;
+}
+
+ul li {
+    list-style: none;
+}

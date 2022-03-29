@@ -1,0 +1,94 @@
+<<<<<<< HEAD
+L’échelle d’évaluation de 1 à 5 :
+il est parfois difficile ou délicat de trouver un qualificatif pour évaluer l'état mentale d'une personne atteinte d'autisme, un système de notation avec des chiffres allant de 1 à 5 peut aider la personne a plus communiqué de manière précise sur une émotion ou un sentiment.
+(la note 1 exprime un très faible degré, la note 5 reflète un haut degré)
+Notes proposées 1;2;3;4;5 (un seul bouton radio peut être coché)
+
+L’échelle de fréquence pour le questionnaire :
+la régularité d’utilisation, ou encore la fréquentation d’un lieu, tel que le centre de formation, le lieu d'apprentissage (école et lycèes privés), définit le fréquence dont la personne autiste doit répondre au questions, le préférable est de manière quotidienne.
+
+Les critères à surveiller pour les questions :
++ Un seul signe, pas de chiffres dans la questions, sinon peut induire en erreur et compliqué la compréhension de la question.
++ Utilisation de phrases sans équivoque, un sens possible a la phrase, la personne doit pouvoir comprendre rapidement ce qu'on lui demande sans se poser de question supplémentaire.
+
+
+Axes d'améliorations :
+Questions selon l'age sous forme différentes (Pour les plus jeunes des images, etc...)
+
+
+Questions :
+
+Peur :
+    Est-tu angoissé ?
+    Est-tu Indecis ?
+    Est-tu Inquiet ?
+    Est-tu timide ?
+    Est-tu Méfiant ?
+
+Tristesse :
+    Est-tu blessé ?
+    Est-tu Déçu ?
+    Est-tu Désolé ?
+    Est-tu Jaloux ?
+    Est-tu Contrarié ?
+
+Colère :
+    Est-tu agacé ?
+    Est-tu agressif ?
+    Est-tu Enragé ?
+    Est-tu Impatient ?
+    Est-tu frustré?
+
+Joie :
+    Est-tu confiant ?
+    Est-tu content ?
+    Est-tu excité ?
+    Est-tu passioné ?
+=======
+L’échelle d’évaluation de 1 à 5 :  
+il est parfois difficile ou délicat de trouver un qualificatif pour évaluer l'état mentale d'une personne atteinte d'autisme, un système de notation avec des chiffres allant de 1 à 5 peut aider la personne a plus communiqué de manière précise sur une émotion ou un sentiment.  
+(la note 1 exprime un très faible degré, la note 5 reflète un haut degré) 
+Notes proposées 1;2;3;4;5 (un seul bouton radio peut être coché) 
+ 
+L’échelle de fréquence pour le questionnaire :  
+la régularité d’utilisation, ou encore la fréquentation d’un lieu, tel que le centre de formation, le lieu d'apprentissage (école et lycèes privés), définit le fréquence dont la personne autiste doit répondre au questions, le préférable est de manière quotidienne. 
+ 
+Les critères à surveiller pour les questions :  
++ Un seul signe, pas de chiffres dans la questions, sinon peut induire en erreur et compliqué la compréhension de la question. 
++ Utilisation de phrases sans équivoque, un sens possible a la phrase, la personne doit pouvoir comprendre rapidement ce qu'on lui demande sans se poser de question supplémentaire.  
+ 
+ 
+Axes d'améliorations : 
+Questions selon l'age sous forme différentes (Pour les plus jeunes des images, etc...) 
+ 
+ 
+Questions :  
+ 
+Peur :  
+    Est-tu angoissé ?  
+    Est-tu Indecis ?  
+    Est-tu Inquiet ?  
+    Est-tu timide ?  
+    Est-tu Méfiant ? 
+ 
+Tristesse :  
+    Est-tu blessé ?  
+    Est-tu Déçu ? 
+    Est-tu Désolé ? 
+    Est-tu Jaloux ? 
+    Est-tu Contrarié ? 
+ 
+Colère :  
+    Est-tu agacé ? 
+    Est-tu agressif ? 
+    Est-tu Enragé ? 
+    Est-tu Impatient ? 
+    Est-tu frustré? 
+ 
+Joie :  
+    Est-tu confiant ? 
+    Est-tu content ? 
+    Est-tu excité ? 
+    Est-tu passioné ? 
+>>>>>>> questions
+    Est-tu satisfait ?

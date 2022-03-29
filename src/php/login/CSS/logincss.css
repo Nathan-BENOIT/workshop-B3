@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm&family=Cinzel+Decorative&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e7e7e7;
+    font-family: 'Charm', cursive;
+}
+
+form{
+    margin-top: 20px;
+    background-color: #ffff;
+    padding: 40px 60px;
+    border-radius: 10px;
+    min-width: 300px;
+}
+
+form h1{
+
+    align-items: center;
+    color: #5a90ab;
+    text-align: center;
+}
+
+form img{
+    width: 300px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+form .form-group{
+    display: flex;
+    flex-direction: column;
+}
+
+form .form-group input[type="email"], input[type="password"] {
+    padding: 5%;
+    border-radius: 5px;
+    border: none;
+    background-color: #FEC8E9;
+    margin-bottom: 15px;
+}
+
+form .inscription {
+    text-align: center;
+    color: #5a90ab;
+}
+
+form button{
+    padding: 15px 24px ;
+    border-radius: 100%;
+    border: none;
+    background-color: #5a90ab;
+}
+
+form button span{
+    color: #FEC8E9;
+}
